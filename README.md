@@ -13,11 +13,12 @@ Users should be able to:
 - Search for any IP addresses or domains and see the key information and location
 
 ### Screenshot
+<img width="200" alt="Screenshot" src="https://github.com/user-attachments/assets/da3d693c-92ea-4126-8301-23cc03cb421b" />
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Akshatasarawgi/Ip-Address-Tracker]
+- Live Site URL: [https://ipaddresstracker12.netlify.app]
 
 ### Built with
 
@@ -27,9 +28,7 @@ Users should be able to:
 - Mobile-first workflow
 - JavaScript
 
-
 ### What I learned
-
-I learnt about using ES Modules(ESM) and writing Express server code.
+I learnt to use ES Modules(ESM) and write Express server code.
 I learnt how to deploy the backend to Render.
 

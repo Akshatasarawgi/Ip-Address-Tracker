@@ -1,5 +1,5 @@
 
-const apiUrl = "https://ip-address-tracker-backendonly-1.onrender.com/";
+const apiUrl = "https://ip-address-tracker-backendonly-1.onrender.com/api/ip";
 
 const givenIp = document.querySelector('.IP-address');
 const searchBTn = document.querySelector('.submit-button');
